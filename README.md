@@ -6,8 +6,9 @@ This is a somple blockchain app which contains all major blockchain functionalit
 
 first run the command: `yarn node_1`. This will start the first node at port 3001. Then following API's can be used
 
-```
+
 - **/register-and-broadcast-node** - Send this request to any runnuing node to register a new node.
+```
 Example - 
 url: http://localhost:3001
 method: POST
