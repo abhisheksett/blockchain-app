@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es2016",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "sourceMap": true,
+    "esModuleInterop":true
+  },
+  "files": [
+    "src/index.ts"
+  ]
+}
